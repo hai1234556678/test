@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\nhom_15-main\\nhom_15-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|e:\\nhom_15-main\\nhom_15-main\\nhom_15\\view\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\view\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\view\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\view\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\viewmodel\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\viewmodel\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\viewmodel\\trangchuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\viewmodel\\trangchuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|e:\\nhom_15-main\\nhom_15-main\\nhom_15\\view\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\view\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\components\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\components\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\model\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\model\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\view\\dashboard.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\view\\dashboard.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|E:\\nhom_15-main\\nhom_15-main\\nhom_15\\viewmodel\\musicyourview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0590C2-8BEC-4A9D-8B1F-1A7FD6464421}|Nhom_15\\Nhom_15.csproj|solutionrelative:nhom_15\\viewmodel\\musicyourview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrangChu.xaml.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\TrangChu.xaml.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\View\\TrangChu.xaml.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\TrangChu.xaml.cs",
+              "RelativeToolTip": "Nhom_15\\View\\TrangChu.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAEwBYAAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:10:31.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChu.xaml",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\TrangChu.xaml",
+              "RelativeDocumentMoniker": "Nhom_15\\View\\TrangChu.xaml",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\TrangChu.xaml",
+              "RelativeToolTip": "Nhom_15\\View\\TrangChu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T19:47:46.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "Nhom_15\\View\\Dashboard.xaml",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\Dashboard.xaml",
+              "RelativeToolTip": "Nhom_15\\View\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T17:45:33.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\ViewModel\\DashboardViewModel.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\DashboardViewModel.cs",
+              "RelativeToolTip": "Nhom_15\\ViewModel\\DashboardViewModel.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAIA5wIoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:46:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrangChuViewModel.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\TrangChuViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\ViewModel\\TrangChuViewModel.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\TrangChuViewModel.cs",
+              "RelativeToolTip": "Nhom_15\\ViewModel\\TrangChuViewModel.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv1UAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:46:38.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheLoaiViewModel.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\TheLoaiViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\ViewModel\\TheLoaiViewModel.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\TheLoaiViewModel.cs",
+              "RelativeToolTip": "Nhom_15\\ViewModel\\TheLoaiViewModel.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:46:34.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Nhom_15\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwCsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:47:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\MainView.xaml",
+              "RelativeDocumentMoniker": "Nhom_15\\View\\MainView.xaml",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\MainView.xaml",
+              "RelativeToolTip": "Nhom_15\\View\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T17:48:43.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Model\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\Model\\DataProvider.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Model\\DataProvider.cs",
+              "RelativeToolTip": "Nhom_15\\Model\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:25:07.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\App.config",
+              "RelativeDocumentMoniker": "Nhom_15\\App.config",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\App.config",
+              "RelativeToolTip": "Nhom_15\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAADgAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T02:17:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Nhom_15\\View\\LoginView.xaml",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\LoginView.xaml",
+              "RelativeToolTip": "Nhom_15\\View\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T02:26:07.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BindablePasswordBox.xaml",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Components\\BindablePasswordBox.xaml",
+              "RelativeDocumentMoniker": "Nhom_15\\Components\\BindablePasswordBox.xaml",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Components\\BindablePasswordBox.xaml",
+              "RelativeToolTip": "Nhom_15\\Components\\BindablePasswordBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T02:26:46.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\packages.config",
+              "RelativeDocumentMoniker": "Nhom_15\\packages.config",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\packages.config",
+              "RelativeToolTip": "Nhom_15\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T02:18:25.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "Nhom_15\\Model\\Model1.edmx",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Model\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Nhom_15\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-14T02:24:27.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Nhom_15\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:47:38.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MusicYourVIew.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\MusicYourVIew.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\ViewModel\\MusicYourVIew.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\ViewModel\\MusicYourVIew.cs",
+              "RelativeToolTip": "Nhom_15\\ViewModel\\MusicYourVIew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:46:36.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "Nhom_15\\View\\Dashboard.xaml.cs",
+              "ToolTip": "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\View\\Dashboard.xaml.cs",
+              "RelativeToolTip": "Nhom_15\\View\\Dashboard.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:45:46.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
