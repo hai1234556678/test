@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nhom_15.ViewModel
+namespace Nhom_3.ViewModel
 {
     public abstract class ViewModelBase : INotifyPropertyChanged
     {

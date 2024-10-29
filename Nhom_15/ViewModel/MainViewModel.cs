@@ -1,5 +1,5 @@
 ﻿using FontAwesome.Sharp;
-using Nhom_15.Model;
+using Nhom_3.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
-namespace Nhom_15.ViewModel
+namespace Nhom_3.ViewModel
 {
      class MainViewModel:ViewModelBase
     {

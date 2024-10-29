@@ -1,4 +1,4 @@
-﻿using Nhom_15.View;
+﻿using Nhom_3.View;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Nhom_15
+namespace Nhom_3
 {
     /// <summary>
     /// Interaction logic for App.xaml

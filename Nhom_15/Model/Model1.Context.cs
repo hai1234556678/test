@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Nhom_15.Model
+namespace Nhom_3.Model
 {
     using System;
     using System.Data.Entity;

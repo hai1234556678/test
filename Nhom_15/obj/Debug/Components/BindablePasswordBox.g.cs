@@ -9,7 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using Nhom_15.Components;
+using Nhom_3.Components;
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -32,7 +32,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
-namespace Nhom_15.Components {
+namespace Nhom_3.Components {
     
     
     /// <summary>
@@ -60,7 +60,7 @@ namespace Nhom_15.Components {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Nhom_15;component/components/bindablepasswordbox.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Nhom_3;component/components/bindablepasswordbox.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Components\BindablePasswordBox.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Nhom_15.Properties
+namespace Nhom_3.Properties
 {
 
 

@@ -1,4 +1,4 @@
-﻿using Nhom_15.Model;
+﻿using Nhom_3.Model;
 using System;
 using System.Linq;
 using System.Net;
@@ -7,7 +7,7 @@ using System.Security.Principal;
 using System.Threading;
 using System.Windows.Input;
 
-namespace Nhom_15.ViewModel
+namespace Nhom_3.ViewModel
 {
     public class LoginViewModel : ViewModelBase
     {

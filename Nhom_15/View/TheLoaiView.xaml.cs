@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Nhom_15.View
+namespace Nhom_3.View
 {
     /// <summary>
     /// Interaction logic for UserControl1.xaml

@@ -9,7 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using Nhom_15;
+using Nhom_3;
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -32,7 +32,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
-namespace Nhom_15 {
+namespace Nhom_3 {
     
     
     /// <summary>
@@ -58,7 +58,7 @@ namespace Nhom_15 {
             
             #line default
             #line hidden
-            System.Uri resourceLocater = new System.Uri("/Nhom_15;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Nhom_3;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -74,7 +74,7 @@ namespace Nhom_15 {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
-            Nhom_15.App app = new Nhom_15.App();
+            Nhom_3.App app = new Nhom_3.App();
             app.InitializeComponent();
             app.Run();
         }

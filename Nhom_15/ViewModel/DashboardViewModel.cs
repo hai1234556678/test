@@ -1,4 +1,4 @@
-﻿using Nhom_15.Model;
+﻿using Nhom_3.Model;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 
-namespace Nhom_15.ViewModel
+namespace Nhom_3.ViewModel
 {
      class DashboardViewModel : ViewModelBase
     {

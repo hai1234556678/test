@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Nhom_15.View
+namespace Nhom_3.View
 {
     /// <summary>
     /// Interaction logic for LoginView.xaml

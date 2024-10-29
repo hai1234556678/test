@@ -1,4 +1,4 @@
-﻿using Nhom_15.Model;
+﻿using Nhom_3.Model;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -11,7 +11,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
-namespace Nhom_15.ViewModel
+namespace Nhom_3.ViewModel
 {
     internal class TrangChuViewModel:ViewModelBase
     {

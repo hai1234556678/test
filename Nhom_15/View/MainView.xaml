@@ -1,11 +1,11 @@
-﻿<Window x:Class="Nhom_15.View.MainView"
+﻿<Window x:Class="Nhom_3.View.MainView"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Nhom_15.View"
+        xmlns:local="clr-namespace:Nhom_3.View"
         xmlns:fa="clr-namespace:FontAwesome.Sharp;assembly=FontAwesome.Sharp"
-        xmlns:ViewModel="clr-namespace:Nhom_15.ViewModel"
+        xmlns:ViewModel="clr-namespace:Nhom_3.ViewModel"
         mc:Ignorable="d"
         Title="MainWindow" Height="600" Width="1000" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" Background="Transparent">
     <Window.DataContext>

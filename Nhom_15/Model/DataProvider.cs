@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
 
-namespace Nhom_15.Model
+namespace Nhom_3.Model
 {
     public class DataProvider:DbContext
     {

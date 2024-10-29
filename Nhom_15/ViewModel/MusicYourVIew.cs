@@ -1,4 +1,4 @@
-﻿using Nhom_15.Model;
+﻿using Nhom_3.Model;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Nhom_15.ViewModel
+namespace Nhom_3.ViewModel
 {
     class MusicYourVIew:ViewModelBase
     {

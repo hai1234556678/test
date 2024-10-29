@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Nhom_15.View
+namespace Nhom_3.View
 {
     /// <summary>
     /// Interaction logic for TrangChu.xaml
     /// </summary>
     public partial class TrangChu : UserControl
     {
-        private readonly string[] _playList = { "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Music\\1.mp3", "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Music\\2.mp3", "E:\\nhom_15-main\\nhom_15-main\\Nhom_15\\Music\\3.mp3" };
+        private readonly string[] _playList = { "E:\\Nhom_3-main\\Nhom_3-main\\Nhom_3\\Music\\1.mp3", "E:\\Nhom_3-main\\Nhom_3-main\\Nhom_3\\Music\\2.mp3", "E:\\Nhom_3-main\\Nhom_3-main\\Nhom_3\\Music\\3.mp3" };
         private int _currentTrackIndex = 0;
         public TrangChu()
         {
